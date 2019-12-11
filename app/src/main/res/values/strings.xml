@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Coroutine_kotlin_demo</string>
+
+    <!--网络请求回调-->
+    <string name="timeout">网络中断，请检查您的网络状态</string>
+    <string name="wifi_connect">当前使用wifi网络</string>
+    <string name="mobile_connect">当前使用移动数据流量</string>
+    <string name="server">服务器连接失败！</string>
+</resources>
